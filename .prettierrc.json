@@ -1,0 +1,8 @@
+{
+    "arrowParens": "always",
+    "jsxSingleQuote": true,
+    "singleQuote": true,
+    "useTabs": false,
+    "tabWidth": 2,
+    "parser": "typescript"
+}

@@ -1,0 +1,4 @@
+export const INPUT_ELEMENT_TOP_MARGIN = 8;
+export const INPUT_ELEMENT_RIGHT_MARGIN = 8;
+export const DESCRIPTION_MAX_LEN = 500;
+export const TRAVEL_TIPS_MAX_LEN = 500;
